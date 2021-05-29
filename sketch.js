@@ -25,7 +25,7 @@ function draw() {
   }
   drawSprites();
 }
-/*function writePosition(x, y){
+/*function writePosition( ){
  ball.x=ball.x+x;
   ball.y=ball.y+y;
 } */
